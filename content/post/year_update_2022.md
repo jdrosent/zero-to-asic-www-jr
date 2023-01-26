@@ -14,7 +14,7 @@ Here are a few of the highlights:
 * Four Zero to ASIC course tapeouts: [MPW5](/post/mpw5_submitted/), [MPW6](/post/mpw6_submitted/), [MPW7](/post/mpw7_submitted/), and [MPW8](/post/mpw8_submitted/)
 * Rolled out TinyTapeout [01](https://tinytapeout.com/runs/tt01/) and [02](https://tinytapeout.com/runs/tt02/), helping nearly 250 people tapeout their designs,
 * I personally submitted my 19th tapeout
-* Presented and hosted a TinyTapeout workshop at the Hackaday SuperCon in Novemeber 2022. Met tons of people, including Sam Zeloof [@szeloof](https://twitter.com/szeloof).
+* Presented and hosted a TinyTapeout workshop at the Hackaday SuperCon in November 2022. Met tons of people, including Sam Zeloof [@szeloof](https://twitter.com/szeloof).
 * YouTube Channel had 82k views and 2.5k new subscribers
 * Introduced [Siliwiz](https://www.youtube.com/watch?v=V9xCa4RNfCM)
 
